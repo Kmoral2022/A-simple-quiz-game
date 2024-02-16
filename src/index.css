@@ -1,0 +1,45 @@
+/* .TheHead {
+    background-color: black;
+    padding: 7px;
+    color: white;
+}
+ h1 {
+    margin-left: 14cm;
+}
+
+h4 {
+    font-size: small;
+    font-style: italic;
+}
+.kmor {
+    margin-top: 10cm;
+} */
+
+div {
+    background-color: black;
+    color: white;
+    border-radius: 10px 10px;
+}
+
+h2 {
+    font-size: 30px;
+}
+h1 {
+    font-size: 50px;
+}
+
+.question {
+    font-size: 30px;
+}
+button {
+    padding: 30px;
+    margin: 15px;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+}
+.nxt {
+color: red;
+font-size: 40px;
+padding: 8px;
+}
